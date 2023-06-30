@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="6.928592">
+    <testcase classname="ebay Login feature" name="ebay login Test scenario" time="6.928592">
+        <system-out><![CDATA[Given user is already on Login Page.........................................passed
+When title of loginpage is ebay.............................................passed
+Then search button is present...............................................passed
+Then user enters abc in searchwindow........................................passed
+Then user clicks on search button...........................................passed
+Then user close browser.....................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

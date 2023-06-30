@@ -1,0 +1,95 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "ebay login Test scenario",
+        "description": "",
+        "id": "ebay-login-feature;ebay-login-test-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 4348521000,
+              "status": "passed"
+            },
+            "line": 3,
+            "name": "user is already on Login Page",
+            "match": {
+              "location": "LoginstepDefinition.user_is_already_on_Login_Page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 30559000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "title of loginpage is ebay",
+            "match": {
+              "location": "LoginstepDefinition.title_of_loginpage_is_ebay()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 40078900,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "search button is present",
+            "match": {
+              "location": "LoginstepDefinition.search_button_is_present()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 187475400,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user enters abc in searchwindow",
+            "match": {
+              "location": "LoginstepDefinition.user_enters_abc_in_searchwindow()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2151680500,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user clicks on search button",
+            "match": {
+              "location": "LoginstepDefinition.user_clicks_on_search_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 144642100,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user close browser",
+            "match": {
+              "location": "LoginstepDefinition.user_close_broweser()"
+            },
+            "keyword": "Then "
+          }
+        ]
+      }
+    ],
+    "name": "ebay Login feature",
+    "description": "",
+    "id": "ebay-login-feature",
+    "keyword": "Feature",
+    "uri": "C:/QA/SeleniumWorkSpace/Ebay-BDD/src/main/java/features/login.feature",
+    "tags": []
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 2,
+        "name": "ebay login Test scenario",
+        "description": "",
+        "id": "ebay-login-feature;ebay-login-test-scenario",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 3,
+            "name": "user is already on Login Page",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 4,
+            "name": "title of loginpage is ebay",
+            "match": {},
+            "keyword": "When "
+          }
+        ]
+      }
+    ],
+    "name": "ebay Login feature",
+    "description": "",
+    "id": "ebay-login-feature",
+    "keyword": "Feature",
+    "uri": "C:/QA/SeleniumWorkSpace/Ebay-BDD/src/main/java/features/login.feature",
+    "tags": []
+  }
+]
